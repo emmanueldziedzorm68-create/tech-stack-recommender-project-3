@@ -1,0 +1,19 @@
+role,skills,tools,description
+DevOps Engineer,python;cloud computing;automation;linux;docker;ci/cd;git,Python;Docker;GitHub Actions,Automate software delivery and infrastructure operations.
+Cloud Engineer,cloud computing;linux;networking;automation;terraform;python,AWS;Terraform;Linux,Build and maintain cloud infrastructure.
+Cloud Architect,cloud computing;networking;security;system design;terraform,AWS;Azure;Terraform,Design cloud systems around reliability and security requirements.
+Systems Administrator,linux;networking;automation;security;python,Linux;Python;Ansible,Maintain operating systems and automate routine administration.
+Data Analyst,sql;data analysis;excel;statistics;data visualization;python,SQL;Excel;Power BI,Explore data and communicate useful business findings.
+Data Scientist,python;statistics;machine learning;sql;data analysis;data visualization,Python;Jupyter;scikit-learn,Use statistical analysis and models to investigate data problems.
+Machine Learning Engineer,python;machine learning;deep learning;docker;apis;git,Python;PyTorch;Docker,Develop and deploy machine learning systems.
+Data Engineer,python;sql;etl;cloud computing;data modeling;automation,Python;SQL;Apache Airflow,Build reliable pipelines and structured datasets.
+Backend Developer,python;java;sql;apis;git;system design,Python;Java;PostgreSQL,Build application services and data access layers.
+Frontend Developer,html;css;javascript;typescript;react;git,React;TypeScript;Browser developer tools,Build accessible and interactive web interfaces.
+Full Stack Developer,html;css;javascript;react;apis;sql;git,React;Node.js;PostgreSQL,Develop browser interfaces and supporting application services.
+Mobile Developer,javascript;typescript;react;java;apis;git,React Native;Android Studio;Git,Build mobile applications and integrate backend services.
+Cybersecurity Analyst,security;networking;linux;python;data analysis,Wireshark;Linux;Python,Investigate security signals and support defensive operations.
+Network Engineer,networking;security;linux;automation;cloud computing,Wireshark;Linux;Ansible,Design and maintain network connectivity.
+QA Automation Engineer,testing;automation;python;javascript;ci/cd;git,Playwright;pytest;GitHub Actions,Create automated checks for software behavior.
+Database Developer,sql;data modeling;database administration;python;performance optimization,PostgreSQL;SQL;Python,Design databases and improve query performance.
+Business Intelligence Developer,sql;data visualization;data modeling;excel;data analysis;etl,Power BI;Tableau;SQL,Build reporting models and dashboards.
+UI UX Designer,ui design;ux research;prototyping;accessibility;html;css,Figma;Browser developer tools,Research user needs and design usable interfaces.

@@ -1,0 +1,26 @@
+{
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/151.0.7922.170",
+    "revision": "@fa19f0c9d2e340c1c5429d5fff181b6c2d51bbae",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.0.0 Safari/537.36",
+    "jsVersion": "15.1.206.21"
+  },
+  "checks": [
+    "standalone file loads catalogue",
+    "web skills return three roles",
+    "career goals affect profile",
+    "insufficient input rejected",
+    "duplicate aliases rejected",
+    "unknown inputs show no-match guidance",
+    "partial vocabulary warning",
+    "mobile width has no horizontal overflow",
+    "no JavaScript runtime exceptions"
+  ],
+  "screenshots": [
+    "01-web-desktop.png",
+    "02-career-goals.png",
+    "03-no-matches.png",
+    "04-web-mobile.png"
+  ]
+}
